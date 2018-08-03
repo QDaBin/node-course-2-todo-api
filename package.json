@@ -1,0 +1,22 @@
+{
+  "name": "course-2-todo-api",
+  "version": "1.0.0",
+  "description": "Learn MongoDB Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QDaBin/node-course-2-todo-api.git"
+  },
+  "author": "QiuDB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QDaBin/node-course-2-todo-api/issues"
+  },
+  "homepage": "https://github.com/QDaBin/node-course-2-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^3.1.1"
+  }
+}
